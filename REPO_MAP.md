@@ -17,18 +17,18 @@ This file acts as a navigation guide for the Retinal Surrealism repository. It e
 10. **11_APP/**: supplies tags and classifier hints for applications.
 
 ## Recommended Reading Order
-- If new to the style, start with `README.md` then the foundation files: `style_definition.md`, `non_negotiables.md`, `superfamilies.md`, and `BRANCH_MAP.md`.
-- For prompt work, read `prompt_templates.md`, `prompt_fragments.md`, and `anti_drift.md`.
-- For pattern generation, consult `pattern_families.md` and the motif files under `05_PATTERN_LIBRARY/`.
-- For worldbuilding, check `03_OPTICAL_SURREALISM/` and the object library files.
+- If new to the style, start with `README.md` then the foundation files: `01_FOUNDATION/style_definition.md`, `01_FOUNDATION/non_negotiables.md`, `01_FOUNDATION/superfamilies.md`, and `BRANCH_MAP.md`.
+- For prompt work, read `09_AI/prompt_templates.md`, `09_AI/prompt_fragments.md`, and `09_AI/anti_drift.md`.
+- For pattern generation, consult the motif files under `05_PATTERN_LIBRARY/`.
+- For worldbuilding, check `03_OPTICAL_SURREALISM/` and the object library files under `06_OBJECT_AND_WORLD_LIBRARY/`.
 - For color, read the files in `08_COLOR/`.
 - For procedural generation, use the files in `10_SHADER/`.
 
 ## File Priority Tiers
-- **Tier 1** – Must read: `README.md`, `style_definition.md`, `non_negotiables.md`, `BRANCH_MAP.md`, `style_spec.json`.
+- **Tier 1** – Must read: `README.md`, `01_FOUNDATION/style_definition.md`, `01_FOUNDATION/non_negotiables.md`, `BRANCH_MAP.md`, `09_AI/style_spec.json`.
 - **Tier 2** – Control logic: `04_VISUAL_GRAMMAR/` files.
-- **Tier 3** – Generation support: prompt templates, fragments, anti‑drift.
-- **Tier 4** – Expansion libraries: pattern files, object species files, additional shader docs.
+- **Tier 3** – Generation support: `09_AI/prompt_templates.md`, `09_AI/prompt_fragments.md`, `09_AI/anti_drift.md`.
+- **Tier 4** – Expansion libraries: `05_PATTERN_LIBRARY/`, `06_OBJECT_AND_WORLD_LIBRARY/`, `08_COLOR/`, `10_SHADER/`.
 
 ## Section Rules
 - Keep foundation docs separate from prompt or colour docs.
