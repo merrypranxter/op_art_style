@@ -14,7 +14,6 @@ retinal-surrealism/
 ├── REPO_MAP.md
 ├── GITHUB_REPO_STRUCTURE.md
 ├── QUALITY_CHECKLIST.md
-├── STYLE_AUDIT_TEMPLATE.md (optional)
 ├── BRANCH_MAP.md
 ├── 01_FOUNDATION/
 ├── 02_PURE_OPTICAL_SYSTEMS/
@@ -24,10 +23,11 @@ retinal-surrealism/
 ├── 06_OBJECT_AND_WORLD_LIBRARY/
 ├── 08_COLOR/
 ├── 09_AI/
-└── 10_SHADER/
+├── 10_SHADER/
+└── 11_APP/
 ```
 
-Future sections can include `07_MATERIALS/`, `11_APP/`, or `11_SHADER/` as needed.
+Future sections can include `07_MATERIALS/` as needed.
 
 ## Section Guidelines
 - **01_FOUNDATION**: Contains identity and non-negotiables; never mix prompt or palette files here.
@@ -39,6 +39,7 @@ Future sections can include `07_MATERIALS/`, `11_APP/`, or `11_SHADER/` as neede
 - **08_COLOR**: Colour behaviour and palette families. Should not hold prompt content.
 - **09_AI**: Prompt templates, anti-drift, failure modes, fragments, JSON spec.
 - **10_SHADER**: Procedural translation, structural recipes, animation behaviours, color oscillation logic, etc.
+- **11_APP**: Application-facing tags (`app_tags.json`) and classifier hints. Use for machine-readable metadata only.
 
 ## Naming Conventions
 - Use lowercase and underscores for file names (e.g., `line_density.md`).

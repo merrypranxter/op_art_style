@@ -7,4 +7,4 @@ Op Portraits merge faces with pattern systems. The gaze remains psychologically 
 
 **Effect:** The viewer meets a face that is both person and icon. Eyes stare through pattern; lips glow with prismatic charge; cheeks and temples shimmer with lines. Portraits feel confrontational, glamorous, and surreal.
 
-**Best practices:** Keep the face readable; pattern should support rather than hide features. Use halos and halos to frame the head. Allow hair colour or pattern to contrast with the face. Use prismatic edge logic selectively on eyes and lips. Avoid generic psychedelic overlays; integration should be structural.
+**Best practices:** Keep the face readable; pattern should support rather than hide features. Use halos and rings to frame the head. Allow hair colour or pattern to contrast with the face. Use prismatic edge logic selectively on eyes and lips. Avoid generic psychedelic overlays; integration should be structural.
